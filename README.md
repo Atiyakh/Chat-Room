@@ -1,4 +1,4 @@
-# Low-Level TCP Chat Room Server (Plugin for RootServer)
+# Low-Level TCP Chat Room Server (built with RootServer project)
 
 ## Table of Contents
 - [Introduction](#introduction)
