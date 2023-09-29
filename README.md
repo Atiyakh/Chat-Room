@@ -14,6 +14,8 @@ The Low-Level TCP Chat Room Server is a plugin for the RootServer project that p
 
 - **Low-Level TCP Communication**: Utilizes low-level TCP sockets for efficient and reliable communication.
 
+- **User Interface**: GUI was created with PyQt5 to maintain a robust and stable user experience.
+
 - **Multi-User Chat Rooms**: Supports multiple chat rooms, allowing users to join and participate in different discussions.
 
 - **Customizable Settings**: Configure chat room behavior, such as maximum users, room names, and permissions.
