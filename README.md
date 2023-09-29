@@ -1,7 +1,5 @@
 # Low-Level TCP Chat Room Server (Plugin for RootServer)
 
-![TCP Chat Room Server](assets/tcp_chat_room_server.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
